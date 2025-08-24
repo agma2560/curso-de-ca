@@ -1,0 +1,42 @@
+F:\CURSOS\C#\COLECCIONES\03_TaskManager\03_TaskManager\bin\Debug\net8.0\03_TaskManager.exe
+F:\CURSOS\C#\COLECCIONES\03_TaskManager\03_TaskManager\bin\Debug\net8.0\03_TaskManager.deps.json
+F:\CURSOS\C#\COLECCIONES\03_TaskManager\03_TaskManager\bin\Debug\net8.0\03_TaskManager.runtimeconfig.json
+F:\CURSOS\C#\COLECCIONES\03_TaskManager\03_TaskManager\bin\Debug\net8.0\03_TaskManager.dll
+F:\CURSOS\C#\COLECCIONES\03_TaskManager\03_TaskManager\bin\Debug\net8.0\03_TaskManager.pdb
+F:\CURSOS\C#\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\C#\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.AssemblyInfoInputs.cache
+F:\CURSOS\C#\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.AssemblyInfo.cs
+F:\CURSOS\C#\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.csproj.CoreCompileInputs.cache
+F:\CURSOS\C#\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.dll
+F:\CURSOS\C#\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\refint\03_TaskManager.dll
+F:\CURSOS\C#\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.pdb
+F:\CURSOS\C#\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.genruntimeconfig.cache
+F:\CURSOS\C#\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\ref\03_TaskManager.dll
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\bin\Debug\net8.0\03_TaskManager.exe
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\bin\Debug\net8.0\03_TaskManager.deps.json
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\bin\Debug\net8.0\03_TaskManager.runtimeconfig.json
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\bin\Debug\net8.0\03_TaskManager.dll
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\bin\Debug\net8.0\03_TaskManager.pdb
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.AssemblyInfoInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.AssemblyInfo.cs
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.csproj.CoreCompileInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.dll
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\refint\03_TaskManager.dll
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.pdb
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.genruntimeconfig.cache
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\ref\03_TaskManager.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\bin\Debug\net8.0\03_TaskManager.exe
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\bin\Debug\net8.0\03_TaskManager.deps.json
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\bin\Debug\net8.0\03_TaskManager.runtimeconfig.json
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\bin\Debug\net8.0\03_TaskManager.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\bin\Debug\net8.0\03_TaskManager.pdb
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.AssemblyInfoInputs.cache
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.AssemblyInfo.cs
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.csproj.CoreCompileInputs.cache
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\refint\03_TaskManager.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.pdb
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\03_TaskManager.genruntimeconfig.cache
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\03_TaskManager\03_TaskManager\obj\Debug\net8.0\ref\03_TaskManager.dll

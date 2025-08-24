@@ -1,0 +1,34 @@
+F:\CURSOS\C#\COLECCIONES\01_Array\01_Array\bin\Debug\net8.0\01_Array.exe
+F:\CURSOS\C#\COLECCIONES\01_Array\01_Array\bin\Debug\net8.0\01_Array.deps.json
+F:\CURSOS\C#\COLECCIONES\01_Array\01_Array\bin\Debug\net8.0\01_Array.runtimeconfig.json
+F:\CURSOS\C#\COLECCIONES\01_Array\01_Array\bin\Debug\net8.0\01_Array.dll
+F:\CURSOS\C#\COLECCIONES\01_Array\01_Array\bin\Debug\net8.0\01_Array.pdb
+F:\CURSOS\C#\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\C#\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.AssemblyInfoInputs.cache
+F:\CURSOS\C#\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.AssemblyInfo.cs
+F:\CURSOS\C#\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.csproj.CoreCompileInputs.cache
+F:\CURSOS\C#\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.dll
+F:\CURSOS\C#\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\refint\01_Array.dll
+F:\CURSOS\C#\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.pdb
+F:\CURSOS\C#\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.genruntimeconfig.cache
+F:\CURSOS\C#\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\ref\01_Array.dll
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\bin\Debug\net8.0\01_Array.exe
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\bin\Debug\net8.0\01_Array.deps.json
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\bin\Debug\net8.0\01_Array.runtimeconfig.json
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\bin\Debug\net8.0\01_Array.dll
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\bin\Debug\net8.0\01_Array.pdb
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.AssemblyInfoInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.AssemblyInfo.cs
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.csproj.CoreCompileInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.dll
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\refint\01_Array.dll
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.pdb
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.genruntimeconfig.cache
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\ref\01_Array.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.AssemblyInfoInputs.cache
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.AssemblyInfo.cs
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.csproj.CoreCompileInputs.cache
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\01_Array\01_Array\obj\Debug\net8.0\01_Array.pdb

@@ -1,0 +1,42 @@
+F:\CURSOS\C#\COLECCIONES\04_Queue\04_Queue\bin\Debug\net8.0\04_Queue.exe
+F:\CURSOS\C#\COLECCIONES\04_Queue\04_Queue\bin\Debug\net8.0\04_Queue.deps.json
+F:\CURSOS\C#\COLECCIONES\04_Queue\04_Queue\bin\Debug\net8.0\04_Queue.runtimeconfig.json
+F:\CURSOS\C#\COLECCIONES\04_Queue\04_Queue\bin\Debug\net8.0\04_Queue.dll
+F:\CURSOS\C#\COLECCIONES\04_Queue\04_Queue\bin\Debug\net8.0\04_Queue.pdb
+F:\CURSOS\C#\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\C#\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.AssemblyInfoInputs.cache
+F:\CURSOS\C#\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.AssemblyInfo.cs
+F:\CURSOS\C#\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.csproj.CoreCompileInputs.cache
+F:\CURSOS\C#\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.dll
+F:\CURSOS\C#\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\refint\04_Queue.dll
+F:\CURSOS\C#\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.pdb
+F:\CURSOS\C#\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.genruntimeconfig.cache
+F:\CURSOS\C#\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\ref\04_Queue.dll
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\bin\Debug\net8.0\04_Queue.exe
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\bin\Debug\net8.0\04_Queue.deps.json
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\bin\Debug\net8.0\04_Queue.runtimeconfig.json
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\bin\Debug\net8.0\04_Queue.dll
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\bin\Debug\net8.0\04_Queue.pdb
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.AssemblyInfoInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.AssemblyInfo.cs
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.csproj.CoreCompileInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.dll
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\refint\04_Queue.dll
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.pdb
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.genruntimeconfig.cache
+F:\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\ref\04_Queue.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\bin\Debug\net8.0\04_Queue.exe
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\bin\Debug\net8.0\04_Queue.deps.json
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\bin\Debug\net8.0\04_Queue.runtimeconfig.json
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\bin\Debug\net8.0\04_Queue.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\bin\Debug\net8.0\04_Queue.pdb
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.AssemblyInfoInputs.cache
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.AssemblyInfo.cs
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.csproj.CoreCompileInputs.cache
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\refint\04_Queue.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.pdb
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\04_Queue.genruntimeconfig.cache
+C:\DATA\CURSOS\CURSO DE DI Y CA\01 REPASO DE COLECCIONES\COLECCIONES\04_Queue\04_Queue\obj\Debug\net8.0\ref\04_Queue.dll
