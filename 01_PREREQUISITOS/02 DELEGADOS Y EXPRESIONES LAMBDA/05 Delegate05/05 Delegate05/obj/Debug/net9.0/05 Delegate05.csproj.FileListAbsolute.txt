@@ -1,0 +1,14 @@
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\05 Delegate05\05 Delegate05\bin\Debug\net9.0\05 Delegate05.exe
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\05 Delegate05\05 Delegate05\bin\Debug\net9.0\05 Delegate05.deps.json
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\05 Delegate05\05 Delegate05\bin\Debug\net9.0\05 Delegate05.runtimeconfig.json
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\05 Delegate05\05 Delegate05\bin\Debug\net9.0\05 Delegate05.dll
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\05 Delegate05\05 Delegate05\bin\Debug\net9.0\05 Delegate05.pdb
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\05 Delegate05\05 Delegate05\obj\Debug\net9.0\05 Delegate05.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\05 Delegate05\05 Delegate05\obj\Debug\net9.0\05 Delegate05.AssemblyInfoInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\05 Delegate05\05 Delegate05\obj\Debug\net9.0\05 Delegate05.AssemblyInfo.cs
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\05 Delegate05\05 Delegate05\obj\Debug\net9.0\05 Delegate05.csproj.CoreCompileInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\05 Delegate05\05 Delegate05\obj\Debug\net9.0\05 Delegate05.dll
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\05 Delegate05\05 Delegate05\obj\Debug\net9.0\refint\05 Delegate05.dll
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\05 Delegate05\05 Delegate05\obj\Debug\net9.0\05 Delegate05.pdb
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\05 Delegate05\05 Delegate05\obj\Debug\net9.0\05 Delegate05.genruntimeconfig.cache
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\05 Delegate05\05 Delegate05\obj\Debug\net9.0\ref\05 Delegate05.dll

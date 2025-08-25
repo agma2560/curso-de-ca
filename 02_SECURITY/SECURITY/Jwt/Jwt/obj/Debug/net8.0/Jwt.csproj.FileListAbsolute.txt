@@ -1,0 +1,124 @@
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\bin\Debug\net8.0\appsettings.Development.json
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\bin\Debug\net8.0\appsettings.json
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.staticwebassets.endpoints.json
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.exe
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.deps.json
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.runtimeconfig.json
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.dll
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.pdb
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.csproj.AssemblyReference.cache
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.AssemblyInfoInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.AssemblyInfo.cs
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.csproj.CoreCompileInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.MvcApplicationPartsAssemblyInfo.cs
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.MvcApplicationPartsAssemblyInfo.cache
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\scopedcss\bundle\Jwt.styles.css
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets.build.json
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets.development.json
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets\msbuild.Jwt.Microsoft.AspNetCore.StaticWebAssets.props
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets\msbuild.Jwt.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets\msbuild.build.Jwt.props
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Jwt.props
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Jwt.props
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets.pack.json
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.csproj.Up2Date
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.dll
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\refint\Jwt.dll
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.pdb
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.genruntimeconfig.cache
+F:\CURSOS\CURSO DE DI Y CA\SECURITY\Jwt\Jwt\obj\Debug\net8.0\ref\Jwt.dll
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\appsettings.Development.json
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.staticwebassets.endpoints.json
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\appsettings.json
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.exe
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.deps.json
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.runtimeconfig.json
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.dll
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.pdb
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.csproj.AssemblyReference.cache
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.AssemblyInfoInputs.cache
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.AssemblyInfo.cs
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.csproj.CoreCompileInputs.cache
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.MvcApplicationPartsAssemblyInfo.cs
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.MvcApplicationPartsAssemblyInfo.cache
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\scopedcss\bundle\Jwt.styles.css
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets.build.json
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets.development.json
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets\msbuild.Jwt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets\msbuild.Jwt.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets\msbuild.build.Jwt.props
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Jwt.props
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Jwt.props
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets.pack.json
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.csproj.Up2Date
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.dll
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\refint\Jwt.dll
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.pdb
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.genruntimeconfig.cache
+C:\DATA\CURSOS\SECURITY\Jwt\Jwt\obj\Debug\net8.0\ref\Jwt.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\appsettings.Development.json
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\appsettings.json
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.staticwebassets.endpoints.json
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.exe
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.deps.json
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.runtimeconfig.json
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Jwt.pdb
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.csproj.AssemblyReference.cache
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.AssemblyInfoInputs.cache
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.AssemblyInfo.cs
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.csproj.CoreCompileInputs.cache
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.MvcApplicationPartsAssemblyInfo.cs
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.MvcApplicationPartsAssemblyInfo.cache
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\scopedcss\bundle\Jwt.styles.css
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets.build.json
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets.development.json
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets\msbuild.Jwt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets\msbuild.Jwt.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets\msbuild.build.Jwt.props
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Jwt.props
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Jwt.props
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets.pack.json
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.csproj.Up2Date
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\refint\Jwt.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.pdb
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\Jwt.genruntimeconfig.cache
+C:\DATA\CURSOS\CURSO DE DI Y CA\JWT\SECURITY\Jwt\Jwt\obj\Debug\net8.0\ref\Jwt.dll

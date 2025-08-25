@@ -1,0 +1,23 @@
+C:\DATA\PY\AppGan\SftGan.Entityes\bin\Debug\net8.0\AppGan.Entities.deps.json
+C:\DATA\PY\AppGan\SftGan.Entityes\bin\Debug\net8.0\AppGan.Entities.dll
+C:\DATA\PY\AppGan\SftGan.Entityes\bin\Debug\net8.0\AppGan.Entities.pdb
+C:\DATA\PY\AppGan\SftGan.Entityes\obj\Debug\net8.0\AppGan.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\PY\AppGan\SftGan.Entityes\obj\Debug\net8.0\AppGan.Entities.AssemblyInfoInputs.cache
+C:\DATA\PY\AppGan\SftGan.Entityes\obj\Debug\net8.0\AppGan.Entities.AssemblyInfo.cs
+C:\DATA\PY\AppGan\SftGan.Entityes\obj\Debug\net8.0\AppGan.Entities.csproj.CoreCompileInputs.cache
+C:\DATA\PY\AppGan\SftGan.Entityes\obj\Debug\net8.0\AppGan.Entities.sourcelink.json
+C:\DATA\PY\AppGan\SftGan.Entityes\obj\Debug\net8.0\AppGan.Entities.dll
+C:\DATA\PY\AppGan\SftGan.Entityes\obj\Debug\net8.0\refint\AppGan.Entities.dll
+C:\DATA\PY\AppGan\SftGan.Entityes\obj\Debug\net8.0\AppGan.Entities.pdb
+C:\DATA\PY\AppGan\SftGan.Entityes\obj\Debug\net8.0\ref\AppGan.Entities.dll
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\SftGan.Entityes\obj\Debug\net8.0\AppGan.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\SftGan.Entityes\obj\Debug\net8.0\AppGan.Entities.AssemblyInfoInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\SftGan.Entityes\obj\Debug\net8.0\AppGan.Entities.AssemblyInfo.cs
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\SftGan.Entityes\obj\Debug\net8.0\AppGan.Entities.csproj.CoreCompileInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\SftGan.Entityes\obj\Debug\net8.0\AppGan.Entities.dll
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\SftGan.Entityes\obj\Debug\net8.0\refint\AppGan.Entities.dll
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\SftGan.Entityes\obj\Debug\net8.0\AppGan.Entities.pdb
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\SftGan.Entityes\bin\Debug\net8.0\AppGan.Entities.deps.json
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\SftGan.Entityes\bin\Debug\net8.0\AppGan.Entities.dll
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\SftGan.Entityes\bin\Debug\net8.0\AppGan.Entities.pdb
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\SftGan.Entityes\obj\Debug\net8.0\ref\AppGan.Entities.dll

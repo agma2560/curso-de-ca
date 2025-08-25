@@ -1,0 +1,108 @@
+F:\CURSOS\PATRONES\DTO\01_Dto\bin\Debug\net9.0\appsettings.Development.json
+F:\CURSOS\PATRONES\DTO\01_Dto\bin\Debug\net9.0\appsettings.json
+F:\CURSOS\PATRONES\DTO\01_Dto\bin\Debug\net9.0\01_Dto.staticwebassets.endpoints.json
+F:\CURSOS\PATRONES\DTO\01_Dto\bin\Debug\net9.0\01_Dto.exe
+F:\CURSOS\PATRONES\DTO\01_Dto\bin\Debug\net9.0\01_Dto.deps.json
+F:\CURSOS\PATRONES\DTO\01_Dto\bin\Debug\net9.0\01_Dto.runtimeconfig.json
+F:\CURSOS\PATRONES\DTO\01_Dto\bin\Debug\net9.0\01_Dto.dll
+F:\CURSOS\PATRONES\DTO\01_Dto\bin\Debug\net9.0\01_Dto.pdb
+F:\CURSOS\PATRONES\DTO\01_Dto\bin\Debug\net9.0\AutoMapper.dll
+F:\CURSOS\PATRONES\DTO\01_Dto\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\CURSOS\PATRONES\DTO\01_Dto\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+F:\CURSOS\PATRONES\DTO\01_Dto\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\01_Dto.csproj.AssemblyReference.cache
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\01_Dto.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\01_Dto.AssemblyInfoInputs.cache
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\01_Dto.AssemblyInfo.cs
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\01_Dto.csproj.CoreCompileInputs.cache
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\01_Dto.MvcApplicationPartsAssemblyInfo.cs
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\01_Dto.MvcApplicationPartsAssemblyInfo.cache
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\scopedcss\bundle\01_Dto.styles.css
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\staticwebassets.build.json
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\staticwebassets.development.json
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\staticwebassets\msbuild.01_Dto.Microsoft.AspNetCore.StaticWebAssets.props
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\staticwebassets\msbuild.01_Dto.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\staticwebassets\msbuild.build.01_Dto.props
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.01_Dto.props
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.01_Dto.props
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\staticwebassets.pack.json
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\01_Dto.csproj.Up2Date
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\01_Dto.dll
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\refint\01_Dto.dll
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\01_Dto.pdb
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\01_Dto.genruntimeconfig.cache
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\ref\01_Dto.dll
+F:\CURSOS\PATRONES\DTO\01_Dto\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.csproj.AssemblyReference.cache
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.AssemblyInfoInputs.cache
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.AssemblyInfo.cs
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.csproj.CoreCompileInputs.cache
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.MvcApplicationPartsAssemblyInfo.cs
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.MvcApplicationPartsAssemblyInfo.cache
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.dll
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\refint\01_Dto.dll
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.pdb
+F:\CURSOS\PATRONES\DTO\02_Dto\bin\Debug\net9.0\appsettings.Development.json
+F:\CURSOS\PATRONES\DTO\02_Dto\bin\Debug\net9.0\appsettings.json
+F:\CURSOS\PATRONES\DTO\02_Dto\bin\Debug\net9.0\01_Dto.staticwebassets.endpoints.json
+F:\CURSOS\PATRONES\DTO\02_Dto\bin\Debug\net9.0\01_Dto.exe
+F:\CURSOS\PATRONES\DTO\02_Dto\bin\Debug\net9.0\01_Dto.deps.json
+F:\CURSOS\PATRONES\DTO\02_Dto\bin\Debug\net9.0\01_Dto.runtimeconfig.json
+F:\CURSOS\PATRONES\DTO\02_Dto\bin\Debug\net9.0\01_Dto.dll
+F:\CURSOS\PATRONES\DTO\02_Dto\bin\Debug\net9.0\01_Dto.pdb
+F:\CURSOS\PATRONES\DTO\02_Dto\bin\Debug\net9.0\AutoMapper.dll
+F:\CURSOS\PATRONES\DTO\02_Dto\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\CURSOS\PATRONES\DTO\02_Dto\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+F:\CURSOS\PATRONES\DTO\02_Dto\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\scopedcss\bundle\01_Dto.styles.css
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets.build.json
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets.development.json
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets\msbuild.01_Dto.Microsoft.AspNetCore.StaticWebAssets.props
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets\msbuild.01_Dto.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets\msbuild.build.01_Dto.props
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.01_Dto.props
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.01_Dto.props
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets.pack.json
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.csproj.Up2Date
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.genruntimeconfig.cache
+F:\CURSOS\PATRONES\DTO\02_Dto\obj\Debug\net9.0\ref\01_Dto.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\bin\Debug\net9.0\appsettings.Development.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\bin\Debug\net9.0\appsettings.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\bin\Debug\net9.0\01_Dto.staticwebassets.endpoints.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\bin\Debug\net9.0\01_Dto.exe
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\bin\Debug\net9.0\01_Dto.deps.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\bin\Debug\net9.0\01_Dto.runtimeconfig.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\bin\Debug\net9.0\01_Dto.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\bin\Debug\net9.0\01_Dto.pdb
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\bin\Debug\net9.0\AutoMapper.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.csproj.AssemblyReference.cache
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.AssemblyInfoInputs.cache
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.AssemblyInfo.cs
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.csproj.CoreCompileInputs.cache
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.MvcApplicationPartsAssemblyInfo.cs
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.MvcApplicationPartsAssemblyInfo.cache
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\scopedcss\bundle\01_Dto.styles.css
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets.build.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets.development.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets\msbuild.01_Dto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets\msbuild.01_Dto.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets\msbuild.build.01_Dto.props
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.01_Dto.props
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.01_Dto.props
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets.pack.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.csproj.Up2Date
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\refint\01_Dto.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.pdb
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\01_Dto.genruntimeconfig.cache
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\DTO\02_Dto\obj\Debug\net9.0\ref\01_Dto.dll

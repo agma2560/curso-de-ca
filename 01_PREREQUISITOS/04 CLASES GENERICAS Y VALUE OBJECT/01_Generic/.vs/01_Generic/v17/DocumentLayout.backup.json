@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DATA\\memoria\\CURSOS\\CURSO DE DI Y CA\\04 CLASES GENERICAS Y VALUE OBJECT\\01_Generic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4580B46B-1D94-444E-ACE5-076840B15B06}|01_Generic\\01_Generic.csproj|c:\\data\\memoria\\cursos\\curso de di y ca\\04 clases genericas y value object\\01_generic\\01_generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4580B46B-1D94-444E-ACE5-076840B15B06}|01_Generic\\01_Generic.csproj|solutionrelative:01_generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DATA\\memoria\\CURSOS\\CURSO DE DI Y CA\\04 CLASES GENERICAS Y VALUE OBJECT\\01_Generic\\01_Generic\\Program.cs",
+              "RelativeDocumentMoniker": "01_Generic\\Program.cs",
+              "ToolTip": "C:\\DATA\\memoria\\CURSOS\\CURSO DE DI Y CA\\04 CLASES GENERICAS Y VALUE OBJECT\\01_Generic\\01_Generic\\Program.cs",
+              "RelativeToolTip": "01_Generic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T21:43:25.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\Async01\Async01\bin\Debug\net8.0\Async01.exe
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\Async01\Async01\bin\Debug\net8.0\Async01.deps.json
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\Async01\Async01\bin\Debug\net8.0\Async01.runtimeconfig.json
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\Async01\Async01\bin\Debug\net8.0\Async01.dll
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\Async01\Async01\bin\Debug\net8.0\Async01.pdb
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\Async01.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\Async01.AssemblyInfoInputs.cache
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\Async01.AssemblyInfo.cs
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\Async01.csproj.CoreCompileInputs.cache
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\Async01.dll
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\refint\Async01.dll
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\Async01.pdb
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\Async01.genruntimeconfig.cache
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\ref\Async01.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\08 PROGRAMACION ASINCRONA\Async01\Async01\bin\Debug\net8.0\Async01.exe
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\08 PROGRAMACION ASINCRONA\Async01\Async01\bin\Debug\net8.0\Async01.deps.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\08 PROGRAMACION ASINCRONA\Async01\Async01\bin\Debug\net8.0\Async01.runtimeconfig.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\08 PROGRAMACION ASINCRONA\Async01\Async01\bin\Debug\net8.0\Async01.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\08 PROGRAMACION ASINCRONA\Async01\Async01\bin\Debug\net8.0\Async01.pdb
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\08 PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\Async01.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\08 PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\Async01.AssemblyInfoInputs.cache
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\08 PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\Async01.AssemblyInfo.cs
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\08 PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\Async01.csproj.CoreCompileInputs.cache
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\08 PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\Async01.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\08 PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\refint\Async01.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\08 PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\Async01.pdb
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\08 PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\Async01.genruntimeconfig.cache
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\08 PROGRAMACION ASINCRONA\Async01\Async01\obj\Debug\net8.0\ref\Async01.dll

@@ -1,0 +1,82 @@
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\appsettings.Development.json
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\appsettings.json
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\EmpleadoApp.staticwebassets.endpoints.json
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\EmpleadoApp.exe
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\EmpleadoApp.deps.json
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\EmpleadoApp.runtimeconfig.json
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\EmpleadoApp.dll
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\EmpleadoApp.pdb
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\FluentValidation.dll
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\MediatR.dll
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\MediatR.Contracts.dll
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.csproj.AssemblyReference.cache
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.AssemblyInfoInputs.cache
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.AssemblyInfo.cs
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.csproj.CoreCompileInputs.cache
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.MvcApplicationPartsAssemblyInfo.cs
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.MvcApplicationPartsAssemblyInfo.cache
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\scopedcss\bundle\EmpleadoApp.styles.css
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets.build.json
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets.development.json
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets\msbuild.EmpleadoApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets\msbuild.EmpleadoApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets\msbuild.build.EmpleadoApp.props
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmpleadoApp.props
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmpleadoApp.props
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets.pack.json
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\Empleado.7A88D4B2.Up2Date
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.dll
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\refint\EmpleadoApp.dll
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.pdb
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.genruntimeconfig.cache
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\ref\EmpleadoApp.dll
+F:\CURSOS\PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\appsettings.Development.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\appsettings.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\EmpleadoApp.staticwebassets.endpoints.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\EmpleadoApp.exe
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\EmpleadoApp.deps.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\EmpleadoApp.runtimeconfig.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\EmpleadoApp.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\EmpleadoApp.pdb
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\FluentValidation.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\MediatR.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.csproj.AssemblyReference.cache
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.AssemblyInfoInputs.cache
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.AssemblyInfo.cs
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.csproj.CoreCompileInputs.cache
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.MvcApplicationPartsAssemblyInfo.cs
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\scopedcss\bundle\EmpleadoApp.styles.css
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets\msbuild.EmpleadoApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets\msbuild.EmpleadoApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets\msbuild.build.EmpleadoApp.props
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmpleadoApp.props
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmpleadoApp.props
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\Empleado.7A88D4B2.Up2Date
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\refint\EmpleadoApp.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.pdb
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\EmpleadoApp.genruntimeconfig.cache
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\06 PATRONES\MEDIATOR\EmpleadoApp\obj\Debug\net8.0\ref\EmpleadoApp.dll

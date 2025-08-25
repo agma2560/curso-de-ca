@@ -1,0 +1,49 @@
+F:\CURSOS\C#\Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\C#\Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.AssemblyInfoInputs.cache
+F:\CURSOS\C#\Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.AssemblyInfo.cs
+F:\CURSOS\C#\Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.csproj.CoreCompileInputs.cache
+F:\CURSOS\C#\Delegados01\Delegados01\bin\Debug\net8.0\Delegados01.exe
+F:\CURSOS\C#\Delegados01\Delegados01\bin\Debug\net8.0\Delegados01.deps.json
+F:\CURSOS\C#\Delegados01\Delegados01\bin\Debug\net8.0\Delegados01.runtimeconfig.json
+F:\CURSOS\C#\Delegados01\Delegados01\bin\Debug\net8.0\Delegados01.dll
+F:\CURSOS\C#\Delegados01\Delegados01\bin\Debug\net8.0\Delegados01.pdb
+F:\CURSOS\C#\Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.dll
+F:\CURSOS\C#\Delegados01\Delegados01\obj\Debug\net8.0\refint\Delegados01.dll
+F:\CURSOS\C#\Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.pdb
+F:\CURSOS\C#\Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.genruntimeconfig.cache
+F:\CURSOS\C#\Delegados01\Delegados01\obj\Debug\net8.0\ref\Delegados01.dll
+F:\CURSOS\C#\DELEGADOS LAMBDA\Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\C#\DELEGADOS LAMBDA\Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.AssemblyInfoInputs.cache
+F:\CURSOS\C#\DELEGADOS LAMBDA\Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.AssemblyInfo.cs
+F:\CURSOS\C#\DELEGADOS LAMBDA\Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.csproj.CoreCompileInputs.cache
+F:\CURSOS\C#\DELEGADOS LAMBDA\Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.dll
+F:\CURSOS\C#\DELEGADOS LAMBDA\Delegados01\Delegados01\obj\Debug\net8.0\refint\Delegados01.dll
+F:\CURSOS\C#\DELEGADOS LAMBDA\Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.pdb
+F:\CURSOS\C#\DELEGADOS LAMBDA\Delegados01\Delegados01\bin\Debug\net8.0\Delegados01.exe
+F:\CURSOS\C#\DELEGADOS LAMBDA\Delegados01\Delegados01\bin\Debug\net8.0\Delegados01.deps.json
+F:\CURSOS\C#\DELEGADOS LAMBDA\Delegados01\Delegados01\bin\Debug\net8.0\Delegados01.runtimeconfig.json
+F:\CURSOS\C#\DELEGADOS LAMBDA\Delegados01\Delegados01\bin\Debug\net8.0\Delegados01.dll
+F:\CURSOS\C#\DELEGADOS LAMBDA\Delegados01\Delegados01\bin\Debug\net8.0\Delegados01.pdb
+F:\CURSOS\C#\DELEGADOS LAMBDA\Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.genruntimeconfig.cache
+F:\CURSOS\C#\DELEGADOS LAMBDA\Delegados01\Delegados01\obj\Debug\net8.0\ref\Delegados01.dll
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegados01\Delegados01\bin\Debug\net8.0\Delegados01.exe
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegados01\Delegados01\bin\Debug\net8.0\Delegados01.deps.json
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegados01\Delegados01\bin\Debug\net8.0\Delegados01.runtimeconfig.json
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegados01\Delegados01\bin\Debug\net8.0\Delegados01.dll
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegados01\Delegados01\bin\Debug\net8.0\Delegados01.pdb
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.AssemblyInfoInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.AssemblyInfo.cs
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.csproj.CoreCompileInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.dll
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegados01\Delegados01\obj\Debug\net8.0\refint\Delegados01.dll
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.pdb
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegados01\Delegados01\obj\Debug\net8.0\Delegados01.genruntimeconfig.cache
+F:\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegados01\Delegados01\obj\Debug\net8.0\ref\Delegados01.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegate01\Delegados01\obj\Debug\net8.0\Delegados01.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegate01\Delegados01\obj\Debug\net8.0\Delegados01.AssemblyInfoInputs.cache
+C:\DATA\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegate01\Delegados01\obj\Debug\net8.0\Delegados01.AssemblyInfo.cs
+C:\DATA\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegate01\Delegados01\obj\Debug\net8.0\Delegados01.csproj.CoreCompileInputs.cache
+C:\DATA\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegate01\Delegados01\obj\Debug\net8.0\Delegados01.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegate01\Delegados01\obj\Debug\net8.0\refint\Delegados01.dll
+C:\DATA\CURSOS\CURSO DE DI Y CA\02 DELEGADOS Y EXPRESIONES LAMBDA\01 Delegate01\Delegados01\obj\Debug\net8.0\Delegados01.pdb

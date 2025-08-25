@@ -1,0 +1,14 @@
+F:\CURSOS\C#\CLASES GENERICAS\03_Generic\03_Generic\obj\Debug\net8.0\03_Generic.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\C#\CLASES GENERICAS\03_Generic\03_Generic\obj\Debug\net8.0\03_Generic.AssemblyInfoInputs.cache
+F:\CURSOS\C#\CLASES GENERICAS\03_Generic\03_Generic\obj\Debug\net8.0\03_Generic.AssemblyInfo.cs
+F:\CURSOS\C#\CLASES GENERICAS\03_Generic\03_Generic\obj\Debug\net8.0\03_Generic.csproj.CoreCompileInputs.cache
+F:\CURSOS\C#\CLASES GENERICAS\03_Generic\03_Generic\bin\Debug\net8.0\03_Generic.exe
+F:\CURSOS\C#\CLASES GENERICAS\03_Generic\03_Generic\bin\Debug\net8.0\03_Generic.deps.json
+F:\CURSOS\C#\CLASES GENERICAS\03_Generic\03_Generic\bin\Debug\net8.0\03_Generic.runtimeconfig.json
+F:\CURSOS\C#\CLASES GENERICAS\03_Generic\03_Generic\bin\Debug\net8.0\03_Generic.dll
+F:\CURSOS\C#\CLASES GENERICAS\03_Generic\03_Generic\bin\Debug\net8.0\03_Generic.pdb
+F:\CURSOS\C#\CLASES GENERICAS\03_Generic\03_Generic\obj\Debug\net8.0\03_Generic.dll
+F:\CURSOS\C#\CLASES GENERICAS\03_Generic\03_Generic\obj\Debug\net8.0\refint\03_Generic.dll
+F:\CURSOS\C#\CLASES GENERICAS\03_Generic\03_Generic\obj\Debug\net8.0\03_Generic.pdb
+F:\CURSOS\C#\CLASES GENERICAS\03_Generic\03_Generic\obj\Debug\net8.0\03_Generic.genruntimeconfig.cache
+F:\CURSOS\C#\CLASES GENERICAS\03_Generic\03_Generic\obj\Debug\net8.0\ref\03_Generic.dll

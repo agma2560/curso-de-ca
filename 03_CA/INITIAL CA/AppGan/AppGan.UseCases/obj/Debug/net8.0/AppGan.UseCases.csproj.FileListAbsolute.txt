@@ -1,0 +1,17 @@
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\bin\Debug\net8.0\AppGan.UseCases.deps.json
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\bin\Debug\net8.0\AppGan.UseCases.dll
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\bin\Debug\net8.0\AppGan.UseCases.pdb
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\bin\Debug\net8.0\AppGan.Entities.dll
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\bin\Debug\net8.0\AppGan.UseCasesDTOs.dll
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\bin\Debug\net8.0\AppGan.UseCasesDTOs.pdb
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\bin\Debug\net8.0\AppGan.Entities.pdb
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\obj\Debug\net8.0\AppGan.UseCases.csproj.AssemblyReference.cache
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\obj\Debug\net8.0\AppGan.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\obj\Debug\net8.0\AppGan.UseCases.AssemblyInfoInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\obj\Debug\net8.0\AppGan.UseCases.AssemblyInfo.cs
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\obj\Debug\net8.0\AppGan.UseCases.csproj.CoreCompileInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\obj\Debug\net8.0\AppGan.U.536206A1.Up2Date
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\obj\Debug\net8.0\AppGan.UseCases.dll
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\obj\Debug\net8.0\refint\AppGan.UseCases.dll
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\obj\Debug\net8.0\AppGan.UseCases.pdb
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.UseCases\obj\Debug\net8.0\ref\AppGan.UseCases.dll

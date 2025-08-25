@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DATA\\memoria\\CURSOS\\CURSO DE DI Y CA\\06 PATRONES\\MEDIATOR\\EmpleadoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D17C089D-592B-4068-8ABD-2EAEE2FC5591}|EmpleadoApp.csproj|c:\\data\\memoria\\cursos\\curso de di y ca\\06 patrones\\mediator\\empleadoapp\\middleware\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17C089D-592B-4068-8ABD-2EAEE2FC5591}|EmpleadoApp.csproj|solutionrelative:middleware\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17C089D-592B-4068-8ABD-2EAEE2FC5591}|EmpleadoApp.csproj|c:\\data\\memoria\\cursos\\curso de di y ca\\06 patrones\\mediator\\empleadoapp\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17C089D-592B-4068-8ABD-2EAEE2FC5591}|EmpleadoApp.csproj|solutionrelative:controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17C089D-592B-4068-8ABD-2EAEE2FC5591}|EmpleadoApp.csproj|c:\\data\\memoria\\cursos\\curso de di y ca\\06 patrones\\mediator\\empleadoapp\\features\\empleados\\commands\\crearempleadocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17C089D-592B-4068-8ABD-2EAEE2FC5591}|EmpleadoApp.csproj|solutionrelative:features\\empleados\\commands\\crearempleadocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrearEmpleadoCommand.cs",
+              "DocumentMoniker": "C:\\DATA\\memoria\\CURSOS\\CURSO DE DI Y CA\\06 PATRONES\\MEDIATOR\\EmpleadoApp\\Features\\Empleados\\Commands\\CrearEmpleadoCommand.cs",
+              "RelativeDocumentMoniker": "Features\\Empleados\\Commands\\CrearEmpleadoCommand.cs",
+              "ToolTip": "C:\\DATA\\memoria\\CURSOS\\CURSO DE DI Y CA\\06 PATRONES\\MEDIATOR\\EmpleadoApp\\Features\\Empleados\\Commands\\CrearEmpleadoCommand.cs",
+              "RelativeToolTip": "Features\\Empleados\\Commands\\CrearEmpleadoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:02:56.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\DATA\\memoria\\CURSOS\\CURSO DE DI Y CA\\06 PATRONES\\MEDIATOR\\EmpleadoApp\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\DATA\\memoria\\CURSOS\\CURSO DE DI Y CA\\06 PATRONES\\MEDIATOR\\EmpleadoApp\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:03:42.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\DATA\\memoria\\CURSOS\\CURSO DE DI Y CA\\06 PATRONES\\MEDIATOR\\EmpleadoApp\\Middleware\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Middleware\\ValidationBehavior.cs",
+              "ToolTip": "C:\\DATA\\memoria\\CURSOS\\CURSO DE DI Y CA\\06 PATRONES\\MEDIATOR\\EmpleadoApp\\Middleware\\ValidationBehavior.cs",
+              "RelativeToolTip": "Middleware\\ValidationBehavior.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAEwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:59:50.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

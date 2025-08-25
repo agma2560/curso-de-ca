@@ -1,0 +1,35 @@
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\bin\Debug\net8.0\AppGan.Repositories.EFCore.deps.json
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\bin\Debug\net8.0\AppGan.Repositories.EFCore.dll
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\bin\Debug\net8.0\AppGan.Repositories.EFCore.pdb
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.AssemblyInfoInputs.cache
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.AssemblyInfo.cs
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.csproj.CoreCompileInputs.cache
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.sourcelink.json
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.dll
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\refint\AppGan.Repositories.EFCore.dll
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.pdb
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\ref\AppGan.Repositories.EFCore.dll
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\bin\Debug\net8.0\AppGan.Entities.dll
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\bin\Debug\net8.0\AppGan.Entities.pdb
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.csproj.AssemblyReference.cache
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.R.5DC30F70.Up2Date
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\bin\Debug\net8.0\AppGan.Repositories.EFCore.runtimeconfig.json
+C:\DATA\PY\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.genruntimeconfig.cache
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\bin\Debug\net8.0\AppGan.Repositories.EFCore.deps.json
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\bin\Debug\net8.0\AppGan.Repositories.EFCore.runtimeconfig.json
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\bin\Debug\net8.0\AppGan.Repositories.EFCore.dll
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\bin\Debug\net8.0\AppGan.Repositories.EFCore.pdb
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\bin\Debug\net8.0\AppGan.Entities.dll
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\bin\Debug\net8.0\AppGan.Entities.pdb
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.csproj.AssemblyReference.cache
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.AssemblyInfoInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.AssemblyInfo.cs
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.csproj.CoreCompileInputs.cache
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.R.5DC30F70.Up2Date
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.dll
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\refint\AppGan.Repositories.EFCore.dll
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.pdb
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\AppGan.Repositories.EFCore.genruntimeconfig.cache
+F:\CURSOS\CURSO DE DI Y CA\CA\AppGan\AppGan.Repositories.EFCore\obj\Debug\net8.0\ref\AppGan.Repositories.EFCore.dll

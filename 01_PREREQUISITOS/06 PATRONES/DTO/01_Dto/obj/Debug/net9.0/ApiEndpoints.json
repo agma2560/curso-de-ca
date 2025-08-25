@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "_01_Dto.Controllers.EmpleadoController",
+    "Method": "ObtenerEmpleado",
+    "RelativePath": "api/Empleado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "_01_Dto.DTOs.EmpleadoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

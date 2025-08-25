@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DATA\\memoria\\CURSOS\\CURSO DE DI Y CA\\06 PATRONES\\DTO\\01_Dto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D69A7C9-B20F-4A74-9957-5DD90FDB7451}|01_Dto.csproj|c:\\data\\memoria\\cursos\\curso de di y ca\\06 patrones\\dto\\01_dto\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D69A7C9-B20F-4A74-9957-5DD90FDB7451}|01_Dto.csproj|solutionrelative:models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D69A7C9-B20F-4A74-9957-5DD90FDB7451}|01_Dto.csproj|c:\\data\\memoria\\cursos\\curso de di y ca\\06 patrones\\dto\\01_dto\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D69A7C9-B20F-4A74-9957-5DD90FDB7451}|01_Dto.csproj|solutionrelative:dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoDTO.cs",
+              "DocumentMoniker": "C:\\DATA\\memoria\\CURSOS\\CURSO DE DI Y CA\\06 PATRONES\\DTO\\01_Dto\\DTOs\\EmpleadoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\EmpleadoDTO.cs",
+              "ToolTip": "C:\\DATA\\memoria\\CURSOS\\CURSO DE DI Y CA\\06 PATRONES\\DTO\\01_Dto\\DTOs\\EmpleadoDTO.cs",
+              "RelativeToolTip": "DTOs\\EmpleadoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:53:46.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\DATA\\memoria\\CURSOS\\CURSO DE DI Y CA\\06 PATRONES\\DTO\\01_Dto\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Models\\Empleado.cs",
+              "ToolTip": "C:\\DATA\\memoria\\CURSOS\\CURSO DE DI Y CA\\06 PATRONES\\DTO\\01_Dto\\Models\\Empleado.cs",
+              "RelativeToolTip": "Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:53:46.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

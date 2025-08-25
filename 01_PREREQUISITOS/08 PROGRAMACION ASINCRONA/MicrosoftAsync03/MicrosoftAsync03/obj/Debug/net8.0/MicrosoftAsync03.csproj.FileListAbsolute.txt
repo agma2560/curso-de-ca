@@ -1,0 +1,14 @@
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\MicrosoftAsync03\MicrosoftAsync03\bin\Debug\net8.0\MicrosoftAsync03.exe
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\MicrosoftAsync03\MicrosoftAsync03\bin\Debug\net8.0\MicrosoftAsync03.deps.json
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\MicrosoftAsync03\MicrosoftAsync03\bin\Debug\net8.0\MicrosoftAsync03.runtimeconfig.json
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\MicrosoftAsync03\MicrosoftAsync03\bin\Debug\net8.0\MicrosoftAsync03.dll
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\MicrosoftAsync03\MicrosoftAsync03\bin\Debug\net8.0\MicrosoftAsync03.pdb
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\MicrosoftAsync03\MicrosoftAsync03\obj\Debug\net8.0\MicrosoftAsync03.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\MicrosoftAsync03\MicrosoftAsync03\obj\Debug\net8.0\MicrosoftAsync03.AssemblyInfoInputs.cache
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\MicrosoftAsync03\MicrosoftAsync03\obj\Debug\net8.0\MicrosoftAsync03.AssemblyInfo.cs
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\MicrosoftAsync03\MicrosoftAsync03\obj\Debug\net8.0\MicrosoftAsync03.csproj.CoreCompileInputs.cache
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\MicrosoftAsync03\MicrosoftAsync03\obj\Debug\net8.0\MicrosoftAsync03.dll
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\MicrosoftAsync03\MicrosoftAsync03\obj\Debug\net8.0\refint\MicrosoftAsync03.dll
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\MicrosoftAsync03\MicrosoftAsync03\obj\Debug\net8.0\MicrosoftAsync03.pdb
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\MicrosoftAsync03\MicrosoftAsync03\obj\Debug\net8.0\MicrosoftAsync03.genruntimeconfig.cache
+F:\CURSOS\C#\PROGRAMACION ASINCRONA\MicrosoftAsync03\MicrosoftAsync03\obj\Debug\net8.0\ref\MicrosoftAsync03.dll

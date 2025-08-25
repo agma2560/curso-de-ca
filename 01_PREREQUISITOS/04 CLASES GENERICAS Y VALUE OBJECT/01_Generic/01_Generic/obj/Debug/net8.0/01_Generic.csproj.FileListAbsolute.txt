@@ -1,0 +1,28 @@
+F:\CURSOS\C#\CLASES GENERICAS\01_Generic\01_Generic\bin\Debug\net8.0\01_Generic.exe
+F:\CURSOS\C#\CLASES GENERICAS\01_Generic\01_Generic\bin\Debug\net8.0\01_Generic.deps.json
+F:\CURSOS\C#\CLASES GENERICAS\01_Generic\01_Generic\bin\Debug\net8.0\01_Generic.runtimeconfig.json
+F:\CURSOS\C#\CLASES GENERICAS\01_Generic\01_Generic\bin\Debug\net8.0\01_Generic.dll
+F:\CURSOS\C#\CLASES GENERICAS\01_Generic\01_Generic\bin\Debug\net8.0\01_Generic.pdb
+F:\CURSOS\C#\CLASES GENERICAS\01_Generic\01_Generic\obj\Debug\net8.0\01_Generic.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\C#\CLASES GENERICAS\01_Generic\01_Generic\obj\Debug\net8.0\01_Generic.AssemblyInfoInputs.cache
+F:\CURSOS\C#\CLASES GENERICAS\01_Generic\01_Generic\obj\Debug\net8.0\01_Generic.AssemblyInfo.cs
+F:\CURSOS\C#\CLASES GENERICAS\01_Generic\01_Generic\obj\Debug\net8.0\01_Generic.csproj.CoreCompileInputs.cache
+F:\CURSOS\C#\CLASES GENERICAS\01_Generic\01_Generic\obj\Debug\net8.0\01_Generic.dll
+F:\CURSOS\C#\CLASES GENERICAS\01_Generic\01_Generic\obj\Debug\net8.0\refint\01_Generic.dll
+F:\CURSOS\C#\CLASES GENERICAS\01_Generic\01_Generic\obj\Debug\net8.0\01_Generic.pdb
+F:\CURSOS\C#\CLASES GENERICAS\01_Generic\01_Generic\obj\Debug\net8.0\01_Generic.genruntimeconfig.cache
+F:\CURSOS\C#\CLASES GENERICAS\01_Generic\01_Generic\obj\Debug\net8.0\ref\01_Generic.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\04 CLASES GENERICAS Y VALUE OBJECT\01_Generic\01_Generic\bin\Debug\net8.0\01_Generic.exe
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\04 CLASES GENERICAS Y VALUE OBJECT\01_Generic\01_Generic\bin\Debug\net8.0\01_Generic.deps.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\04 CLASES GENERICAS Y VALUE OBJECT\01_Generic\01_Generic\bin\Debug\net8.0\01_Generic.runtimeconfig.json
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\04 CLASES GENERICAS Y VALUE OBJECT\01_Generic\01_Generic\bin\Debug\net8.0\01_Generic.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\04 CLASES GENERICAS Y VALUE OBJECT\01_Generic\01_Generic\bin\Debug\net8.0\01_Generic.pdb
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\04 CLASES GENERICAS Y VALUE OBJECT\01_Generic\01_Generic\obj\Debug\net8.0\01_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\04 CLASES GENERICAS Y VALUE OBJECT\01_Generic\01_Generic\obj\Debug\net8.0\01_Generic.AssemblyInfoInputs.cache
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\04 CLASES GENERICAS Y VALUE OBJECT\01_Generic\01_Generic\obj\Debug\net8.0\01_Generic.AssemblyInfo.cs
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\04 CLASES GENERICAS Y VALUE OBJECT\01_Generic\01_Generic\obj\Debug\net8.0\01_Generic.csproj.CoreCompileInputs.cache
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\04 CLASES GENERICAS Y VALUE OBJECT\01_Generic\01_Generic\obj\Debug\net8.0\01_Generic.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\04 CLASES GENERICAS Y VALUE OBJECT\01_Generic\01_Generic\obj\Debug\net8.0\refint\01_Generic.dll
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\04 CLASES GENERICAS Y VALUE OBJECT\01_Generic\01_Generic\obj\Debug\net8.0\01_Generic.pdb
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\04 CLASES GENERICAS Y VALUE OBJECT\01_Generic\01_Generic\obj\Debug\net8.0\01_Generic.genruntimeconfig.cache
+C:\DATA\memoria\CURSOS\CURSO DE DI Y CA\04 CLASES GENERICAS Y VALUE OBJECT\01_Generic\01_Generic\obj\Debug\net8.0\ref\01_Generic.dll

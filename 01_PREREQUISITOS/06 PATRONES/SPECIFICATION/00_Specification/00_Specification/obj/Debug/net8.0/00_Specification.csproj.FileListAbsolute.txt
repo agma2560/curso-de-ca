@@ -1,0 +1,14 @@
+F:\CURSOS\PATRONES\SPECIFICATION\00_Specification\00_Specification\obj\Debug\net8.0\00_Specification.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\PATRONES\SPECIFICATION\00_Specification\00_Specification\obj\Debug\net8.0\00_Specification.AssemblyInfoInputs.cache
+F:\CURSOS\PATRONES\SPECIFICATION\00_Specification\00_Specification\obj\Debug\net8.0\00_Specification.AssemblyInfo.cs
+F:\CURSOS\PATRONES\SPECIFICATION\00_Specification\00_Specification\obj\Debug\net8.0\00_Specification.csproj.CoreCompileInputs.cache
+F:\CURSOS\PATRONES\SPECIFICATION\00_Specification\00_Specification\bin\Debug\net8.0\00_Specification.exe
+F:\CURSOS\PATRONES\SPECIFICATION\00_Specification\00_Specification\bin\Debug\net8.0\00_Specification.deps.json
+F:\CURSOS\PATRONES\SPECIFICATION\00_Specification\00_Specification\bin\Debug\net8.0\00_Specification.runtimeconfig.json
+F:\CURSOS\PATRONES\SPECIFICATION\00_Specification\00_Specification\bin\Debug\net8.0\00_Specification.dll
+F:\CURSOS\PATRONES\SPECIFICATION\00_Specification\00_Specification\bin\Debug\net8.0\00_Specification.pdb
+F:\CURSOS\PATRONES\SPECIFICATION\00_Specification\00_Specification\obj\Debug\net8.0\00_Specification.dll
+F:\CURSOS\PATRONES\SPECIFICATION\00_Specification\00_Specification\obj\Debug\net8.0\refint\00_Specification.dll
+F:\CURSOS\PATRONES\SPECIFICATION\00_Specification\00_Specification\obj\Debug\net8.0\00_Specification.pdb
+F:\CURSOS\PATRONES\SPECIFICATION\00_Specification\00_Specification\obj\Debug\net8.0\00_Specification.genruntimeconfig.cache
+F:\CURSOS\PATRONES\SPECIFICATION\00_Specification\00_Specification\obj\Debug\net8.0\ref\00_Specification.dll

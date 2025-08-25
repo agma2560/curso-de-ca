@@ -1,0 +1,39 @@
+﻿
+using Repository.Repositories;
+
+namespace Repository.Services.Implements
+{
+    public class GenericService<TEntity> : IGenericService<TEntity> where TEntity : class
+    {
+        private  IGenericRepository<TEntity> genericRepository;
+
+        public GenericService(IGenericRepository<TEntity> genericRepository)
+        {
+            this.genericRepository = genericRepository;
+        }
+        public async Task DeleteById(int id)
+        {   
+            await genericRepository.DeleteById(id);
+        }
+
+        public Task<List<TEntity>> GetAll()
+        {
+            return genericRepository.GetAll();
+        }
+
+        public async Task<TEntity> GetById(int id)
+        {
+            return await genericRepository.GetById(id);
+        }
+
+        public async Task<TEntity> Insert(TEntity entity)
+        {
+            return await genericRepository.Insert(entity);
+        }
+
+        public async Task<TEntity> Update(TEntity entity)
+        {
+            return await genericRepository.Update(entity);
+        }
+    }
+}
